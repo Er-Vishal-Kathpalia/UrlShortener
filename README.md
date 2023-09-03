@@ -8,7 +8,7 @@ Steps to RUN::
 3. Build and Run the project in local and hit the API's from Postman.
 
 
-APIs to Run from Postmam
+API CURLs to Run from Postmam
 1. To Generate a shorten URL
 ```
 curl --location 'http://localhost:9010/url/shortener/generate' \
