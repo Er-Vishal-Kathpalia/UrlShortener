@@ -1,6 +1,6 @@
 # UrlShortener
 Url Shortener using spring boot
-
+The Project created for the learning purpose.
 
 APIs to Run from Postmam
 1. To Generate a shorten URL
