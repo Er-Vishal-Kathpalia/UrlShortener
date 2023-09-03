@@ -20,5 +20,5 @@ curl --location 'http://localhost:9010/url/shortener/generate' \
 ```
 2. To Redirect to the original URL
 ```
-curl --location 'http://localhost:9010/url/shortener/{generatedHashValueInDB}'
+curl --location 'http://localhost:9010/url/shortener/{generatedHashValue}'
 ``` 
